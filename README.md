@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" style="border-bottom:3px solid #CCCEDB; padding-bottom: 15px">
+<img src="https://github.com/VRZ0/vl-front/blob/main/assets/banner.png" style="border-bottom:3px solid #CCCEDB; padding-bottom: 15px">
 <br>
 <br>
 <p align="center">Price-fy 🪙 Concluído <p>
