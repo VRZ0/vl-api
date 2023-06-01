@@ -48,9 +48,9 @@ Ele tem por objetivo de simplificar e agilizar o processo de edição de imagens
 
 <div>
 
-<img src="https://i.ibb.co/B6B9hLJ/Mask-group.png" style="height: 250px">
+<img src="https://i.ibb.co/zVrqTPz/Mask-group.png" style="height: 250px">
 
-<a href="https://www.instagram.com/vinirz11/" style="text-align: center; width: 100%;">Vinicius Reis - Instagram</a>
+<p style="text-align: center; width: 100%;">Vinicius Reis</p>
 <div>
 
 <a href="mailto:vrzotech@gmail.com">
